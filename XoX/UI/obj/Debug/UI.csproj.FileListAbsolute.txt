@@ -1,0 +1,52 @@
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\bin\Debug\UI.exe.config
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\bin\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\bin\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.Form1.resources
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\UI\obj\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.exe.config
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.Form1.resources
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.exe.config
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.Form1.resources
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.exe.config
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\bin\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.Form1.resources
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\UI\obj\Debug\UI.pdb

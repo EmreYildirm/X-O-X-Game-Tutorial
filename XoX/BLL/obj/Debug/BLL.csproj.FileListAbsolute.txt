@@ -1,0 +1,24 @@
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\BLL\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\BLL\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\BLL\obj\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Oyunu\XoX düzenlenmiş\XoX\BLL\obj\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\BLL\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\BLL\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Githuba atılacaklar\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\BLL\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\BLL\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Git\Github\X-O-X-Game-Tutorial\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\BLL\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\BLL\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\X-O-X Game Tutorial\XoX\BLL\obj\Debug\BLL.pdb
